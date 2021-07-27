@@ -1,7 +1,7 @@
 # Data-Analysis
 
-**Cleaning and Format Raw Excel file using Python
-**
+Cleaning and Format Raw Excel file using Python
+
 Library used:
 • 	Numpy
 • 	Pandas
